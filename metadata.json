@@ -1,0 +1,7 @@
+{
+  "name": "Click Metronome",
+  "description": "An advanced click metronome with a 16-step sequencer, customizable rhythm patterns, and a built-in audio recorder. Precision timing, simplified.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
